@@ -25,5 +25,4 @@ https://smartforce-technologies-inc.github.io/public/
 
 docs/**images/liberty-pd_badge.png** =>
 
-https://smartforce-technologies-inc.github.io/public/**images/liberty-pd_badge.png**
-
+https://smartforce-technologies-inc.github.io/public/images/liberty-pd_badge.png
