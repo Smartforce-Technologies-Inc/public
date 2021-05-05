@@ -1,0 +1,78 @@
+{ "head": [
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/x-icon",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-16.ico"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/x-icon",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-32.ico"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-16.png"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-32.png"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "150x150",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-150.png"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "192x192",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-192.png"
+    },
+    {
+      "element": "link",
+      "rel": "icon",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon.svg"
+    },
+    {
+      "element": "link",
+      "rel": "apple-touch-icon",
+      "type": "image/png",
+      "sizes": "180x180",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-180.png"
+    },
+    {
+      "element": "link",
+      "rel": "manifest",
+      "href": "https://smartforce-technologies-inc.github.io/public/manifest.json"
+    },
+    {
+      "element": "link",
+      "rel": "fluid-icon",
+      "href": "https://smartforce-technologies-inc.github.io/public/favicons/favicon-512.png",
+      "title": "SmartForce®"
+    },
+    {
+      "element": "meta",
+      "name": "apple-mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "element": "meta",
+      "name": "apple-mobile-web-app-status-bar-style",
+      "content": "black"
+    }
+  ]
+}
